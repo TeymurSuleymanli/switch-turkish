@@ -9,8 +9,7 @@ TR: Tamamen Türkçe'ye çevrilmiş Switch Menu, en son sürüm  Firmware ile ç
 
 # Kurulum:
 
-Kurulum
-link
+[Kurulum link](https://github.com/TeymurSuleymanli/switch-turkish/releases/tag/1.0.0)
 
 1)Switch konsolunuzun bölgesini Avrupa ve dilini İngilizce olarak ayarlayın
 
